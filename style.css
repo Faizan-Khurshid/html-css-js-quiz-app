@@ -1,0 +1,36 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+#banner{
+	position: fixed;
+	top: 0px;
+	left: 300px;
+	right: 300px;
+	font-family: fantasy;
+	background-color: black;
+	color:white;
+}
+#banner h1{
+	text-align: center;
+}
+.container{
+	margin-top: 70px;
+}
+h1{
+	line-height: 1.5em;
+}
+.form-control{
+	margin: 10px 0px 10px 0px;
+}
+#red{
+	margin-top: 20px;
+	color: red;
+}
+#block{
+	display: block;
+	margin: 10px 0px 10px 60px;
+}
+.margin{
+	margin-left: 60px;
+}
